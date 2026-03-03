@@ -1,6 +1,6 @@
 ## 👋 Hi , I'am Elkham 
 
-** Python Developer ** I specialize in development and also building full-stack applications. I enjoy working with data, automating processes, and turning complex tasks into working code.
+**Python Developer** I specialize in development and also building full-stack applications. I enjoy working with data, automating processes, and turning complex tasks into working code.
 
 ## 🛠  My Tech Stack
 
