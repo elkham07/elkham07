@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E2E8F0&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Elkham;Python+Developer;Data+Analysis+with+Pandas;Building+AI+Dashboards" alt="Typing SVG" />
 </div>
 
+
+## 📂 About Me
 I specialize in **Python** development and full-stack application development. I enjoy working with data, automating processes, and turning complex tasks into usable code.
 
 ## My stack 
