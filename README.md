@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z4MzFxdmR5eDV2cW94NTE4djM1cmFyeXRvemJ0ZGplYTF2d3g0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cLwQ78IxiMitboyJbf/giphy.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E293B&height=200&section=header&text=ELKHAM&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Full-stack%20Explorer&descAlignY=55&descAlign=50&fontColor=E2E8F0" />
 
-  <br />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD00FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Elkham;Python+Developer;Building+AI+Dashboards;Data+Analysis+with+Pandas" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E2E8F0&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Elkham;Python+Developer;Data+Analysis+with+Pandas;Building+AI+Dashboards" alt="Typing SVG" />
 </div>
