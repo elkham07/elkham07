@@ -1,9 +1,26 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3C2A21&height=200&section=header&text=ELKHAM&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20|%20Full-stack%20Explorer&descAlignY=55&descAlign=50&fontColor=D4A373" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z4MzFxdmR5eDV2cW94NTE4djM1cmFyeXRvemJ0ZGplYTF2d3g0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cLwQ78IxiMitboyJbf/giphy.gif" width="100%" alt="Elkham Neon Banner" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D4A373&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Elkham;Python+Developer;Data+Analysis+with+Pandas;Building+AI+Dashboards" alt="Typing SVG" />
+  <br />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD00FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Elkham;Python+Developer;Building+AI+Dashboards;Data+Analysis+with+Pandas" alt="Typing SVG" />
 </div>
 
+<br />
+
+### 💻 Обо мне
+Я — разработчик из **Астаны**, специализируюсь на **Python**, **React** и работе с данными (**Pandas**). Сейчас учусь на IT-факультете (на английском языке) и создаю Full-stack решения.
+
+---
+
+### 🛠 Мой стек технологий
+* **Backend:** Python (FastAPI), Pandas.
+* **Frontend:** JavaScript, React, Tailwind CSS, HTML5/CSS3.
+* **Projects:** AI Content Dashboard, Blockchain platforms.
+
+### 📫 Контакты
+* **Telegram:** [@cxv495](https://t.me/cxv495)
+* **Location:** Astana, Kazakhstan 🇰🇿
 
 **Python Developer** I specialize in development and also building full-stack applications. I enjoy working with data, automating processes, and turning complex tasks into working code.
 
