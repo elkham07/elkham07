@@ -1,36 +1,7 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z4MzFxdmR5eDV2cW94NTE4djM1cmFyeXRvemJ0ZGplYTF2d3g0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cLwQ78IxiMitboyJbf/giphy.gif" width="100%" alt="Elkham Neon Banner" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z4MzFxdmR5eDV2cW94NTE4djM1cmFyeXRvemJ0ZGplYTF2d3g0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cLwQ78IxiMitboyJbf/giphy.gif" width="100%" />
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD00FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Elkham;Python+Developer;Building+AI+Dashboards;Data+Analysis+with+Pandas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD00FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Elkham;Python+Developer;Building+AI+Dashboards;Data+Analysis+with+Pandas" />
 </div>
-
-<br />
-
-### 💻 Обо мне
-Я — разработчик из **Астаны**, специализируюсь на **Python**, **React** и работе с данными (**Pandas**). Сейчас учусь на IT-факультете (на английском языке) и создаю Full-stack решения.
-
----
-
-### 🛠 Мой стек технологий
-* **Backend:** Python (FastAPI), Pandas.
-* **Frontend:** JavaScript, React, Tailwind CSS, HTML5/CSS3.
-* **Projects:** AI Content Dashboard, Blockchain platforms.
-
-### 📫 Контакты
-* **Telegram:** [@cxv495](https://t.me/cxv495)
-* **Location:** Astana, Kazakhstan 🇰🇿
-
-**Python Developer** I specialize in development and also building full-stack applications. I enjoy working with data, automating processes, and turning complex tasks into working code.
-
-## 🛠  My Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
