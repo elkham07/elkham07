@@ -24,7 +24,9 @@ I specialize in **Python** development and full-stack application development. I
 ##  Projects  
 
 - [**Aivio**](https://github.com/elkham07/aivio) – AI-powered social media strategy tool designed to transform any URL into high-quality content in seconds.
+- [**Pit-Stop**](https://github.com/elkham07/Personal-Pit-Stop) - To-do-app-personal manager
 - [**Aethetic-Finds**](https://github.com/elkham07/Aesthetic-Finds) – minimalist platform designed for curating and showcasing premium home decor. It allows users to build a personalized gallery of products integrated with **Amazon**
+- [**Lumi**](https://github.com/elkham07/Lumi) is a modern movie search service. It features a stylish interface, up-to-date selections, and detailed movie information powered by the TMDB API.
 
 ---
 
