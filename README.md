@@ -26,4 +26,18 @@ I specialize in **Python** development and full-stack application development. I
 - [**Aivio**](https://github.com/elkham07/aivio) – AI-powered social media strategy tool designed to transform any URL into high-quality content in seconds.
 - [**Aethetic-Finds**](https://github.com/elkham07/Aesthetic-Finds) – minimalist platform designed for curating and showcasing premium home decor. It allows users to build a personalized gallery of products integrated with **Amazon**
 
+---
+
+###  Currently
+
+- Building robust applications and automation scripts using **Python**.
+- QA Engineering: Focusing on software quality, testing methodologies, and ensuring seamless user experiences.
+- Web Development: Crafting modern, responsive websites with a focus on clean UI and efficient architecture.
+- Open to: Collaborative projects, backend/QA roles, and new challenges in the tech space.
+
+---
+
+### Connect 
+- Email: elkhammamedov@gmail.com
+- Telegram: [@Ilyukha_Az3r] (https://web.telegram.org/a/)
 
