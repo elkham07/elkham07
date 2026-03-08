@@ -40,7 +40,7 @@ I specialize in **Python** development and full-stack application development. I
 ---
 
 ## 📄 Resume
-- [📝 View / Download My Resume](file:///Users/elkhammamedov/Downloads/resume%20(4).pdf)
+- [📝 View / Download My Resume](https://drive.google.com/drive/folders/1-K-p8_jzURNBW1cUul5QaZFzv-1As-wI)
 
 ---
 
