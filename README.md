@@ -39,6 +39,11 @@ I specialize in **Python** development and full-stack application development. I
 
 ---
 
+## 📄 Resume
+- [📝 View / Download My Resume](file:///Users/elkhammamedov/Downloads/resume%20(4).pdf)
+
+---
+
 ### Connect 
 - Email: elkhammamedov@gmail.com
 - Telegram: [@Ilyukha_Az3r] (https://web.telegram.org/a/)
