@@ -18,3 +18,12 @@ I specialize in **Python** development and full-stack application development. I
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+##  Projects  
+
+- [**Aivio**](https://github.com/elkham07/aivio) – AI-powered social media strategy tool designed to transform any URL into high-quality content in seconds.
+- [**Aethetic-Finds**](https://github.com/elkham07/Aesthetic-Finds) – minimalist platform designed for curating and showcasing premium home decor. It allows users to build a personalized gallery of products integrated with **Amazon**
+
+
